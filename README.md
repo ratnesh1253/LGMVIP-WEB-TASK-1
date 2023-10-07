@@ -1,4 +1,3 @@
-# LGMVIP-WEB-TASK-1
 ## To-Do List Web App
 
 Welcome to the To-Do List web app! This project was created during my web development internship to showcase my skills in HTML, CSS, and JavaScript.
